@@ -10,7 +10,7 @@
 
 *Paris-Saclay University / Mathematical Institute of Orsay, M2 Mathematics & AI, 2023-2024*
 
-[UE Website]([https://www.math.u-psud.fr/~bubeck/teaching/OL-2023/](https://joon-kwon.github.io/regret-ups/)) | [GitHub Repository]([https://github.com/AlexPierron/OL-Project](https://github.com/AlexPierron/Online-Learning-Links-with-Optimization-and-Games))
+[UE Website](https://joon-kwon.github.io/regret-ups/) | [GitHub Repository](https://github.com/AlexPierron/Online-Learning-Links-with-Optimization-and-Games)
 
 ---
 
