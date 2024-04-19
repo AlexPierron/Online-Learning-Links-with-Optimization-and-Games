@@ -23,10 +23,6 @@ In this final project for the Online Learning class, we study the problem of sol
 We conduct numerical experiments to compare the performance of the proposed algorithm with other algorithms seen in the course. The experiments are conducted exclusively on two-player zero-sum games and the proposed algorithm is compared to the exponential weights, RM and RM+ algorithms. The code and affiliated notebook are available in the `Pierron_algorithms.py` script and `Pierron_experiments.ipynb` notebook, respectively.
 
 
-## License
-
-This project is licensed under the [2023-2024 License](LICENSE).
-
 ## Acknowledgments
 
 This project was completed as part of the course "Online learning, links with optimization and games" class, 2023-2024 given by J. Kwon. The project was given and supervised by [Joon Kwon]([https://github.com/alexpierron](https://joon-kwon.github.io/)).
