@@ -25,4 +25,4 @@ We conduct numerical experiments to compare the performance of the proposed algo
 
 ## Acknowledgments
 
-This project was completed as part of the course "Online learning, links with optimization and games" class, 2023-2024 given by J. Kwon. The project was given and supervised by [Joon Kwon]([https://github.com/alexpierron](https://joon-kwon.github.io/)).
+This project was completed as part of the course "Online learning, links with optimization and games" class, 2023-2024 given by [J. Kwon](https://joon-kwon.github.io/).
