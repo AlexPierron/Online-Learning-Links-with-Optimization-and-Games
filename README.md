@@ -27,6 +27,7 @@ This project requires the following Python libraries:
 - numpy
 - matplotlib
 - tqdm
+- itertools
 
 ## Acknowledgments
 
