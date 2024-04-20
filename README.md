@@ -22,6 +22,11 @@ In this final project for the Online Learning class, we study the problem of sol
 
 We conduct numerical experiments to compare the performance of the proposed algorithm with other algorithms seen in the course. The experiments are conducted exclusively on two-player zero-sum games and the proposed algorithm is compared to the exponential weights, RM and RM+ algorithms. The code and affiliated notebook are available in the `Pierron_algorithms.py` script and `Pierron_experiments.ipynb` notebook, respectively.
 
+## Required Libraries
+This project requires the following Python libraries:
+- numpy
+- matplotlib
+- tqdm
 
 ## Acknowledgments
 
