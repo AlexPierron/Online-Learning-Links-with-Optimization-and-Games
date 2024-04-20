@@ -1,4 +1,4 @@
-# ONLINE LEARNING, LINKS WITH OPTIMIZATION AND GAMES: FINAL PROJECT
+# Online Learning, Links with Optimization and Games: Final Project
 
 **Solving games: extrapolation vs optimism**
 
